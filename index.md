@@ -4,3 +4,6 @@
 ``` python
  print("Hello, world!")
 ```
+- [x] Do mulearn tasks.
+- [ ] Learn coding.
+- [ ] Introduce myself to the world.
